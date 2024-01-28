@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AlmatyKid - Discoverer & Top Manager of Life</title>
+    <style>
+        body {
+            background-color: black;
+            color: goldenrod;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        section {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>AlmatyKid</h1>
+        <p>Discoverer, Top Manager of Life, Natural Beast, Hunter</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I am a natural beast, a hunter, and a top manager of life. I care about my own life and manage habits and hobbies.</p>
+    </section>
+
+    <!-- Add more sections or content as needed -->
+
+</body>
+
+</html>
